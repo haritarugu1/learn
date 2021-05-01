@@ -5,3 +5,9 @@ By using docker we can create containers
 By using docker images we can build the docker build 
 
 By using docker images we can builg the containbers in ec2 machince or azure vms
+
+by using docker ps we can check process
+by using docker ps -aq list the alkl processes 
+
+
+docker run -it images name to run the image
